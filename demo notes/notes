@@ -1,0 +1,37 @@
+Notes
++++++
+
+SE Demo Notes
+•	Expand Cluster-Andy, Brendan, John
+o	Let’s us differentiate ourselves from our competition, focuses on the internal lifecycle
+o	Trigger- Adding node->insert, refresh, done.
+	Easily expandable, no renovation or forklift upgrades needed
+•	SW Updates-Brendan, John
+o	Adds more time to the IT teams so they can focus on other projects, eliminates complexity and time spent on validations, hardware or software, with one-click operations
+o	Asks for what they’re running (to check hardware compatibility) then show how easy it is to manage and get updates, no checks over time needed, no constant refresh cycle, auto checks
+o	“What is the current version you are running?”
+•	Storage-Sales, Brendan, John, Andy
+o	Most value from the customers, shows how containers can be created and how easily they’re managed.
+o	Higher resiliency from a 3-tier, focused on how the hypervisor is managed rather than the difference between different hypervisors
+o	Not offered by competition
+•	Prism
+o	1-click operations allow for easy use along with simple interface
+o	Always available during all times of day and centralizes all hardware/software into one spot, includes full automation at each step
+•	Analytics + Reports-Brendan
+o	Incredibly simple and well laid out, allows users to find problems and run reports easily
+o	Monitoring and set up is easy to maintain with reports that offer easy to read, highly detailed data
+
+
+•	AHV Image Services-Andy
+o	Trigger-Ask about their current systems, can Segway from their old systems into AHV, explain how simple it is to move over
+o	Allows the customer to have a good base to go off
+•	Migration
+o	Customers might want something new or are tired of VMware
+o	Different style of workloads
+•	IPAM-Testing – John
+o	Show where it is located, not demoed though
+•	Network Config
+o	Allows customers to find out if their workloads are compatible with Nutanix before they buy
+•	Disaster Recovery-Brendan
+o	Allows for the customer to get their data back from a disaster by moving the running VM’s and data to nodes that didn’t fail
+o	Hard to demo
